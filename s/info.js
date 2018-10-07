@@ -291,7 +291,7 @@ function updateDividentsTimer(investmentInfo){
 
 function updateDividents(investmentInfo, type){
 
-	var percent = 5;
+	var percent = 10;
 	var curTime = +new Date();
 	if(type !== 'Month'){
 		var divs = 0;
