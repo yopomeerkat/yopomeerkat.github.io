@@ -1,4 +1,4 @@
-# [![](https://easyinvest10.app/images/apple-icon.png)](https://easyinvest10.app) [easyinvest10.app](https://easyinvest10.app)
+# [![](https://easyinvest10.app/images/apple-icon.png)](https://easyinvest10.app) [https://easyinvest10.app](https://easyinvest10.app)
 
 
 ![](https://easyinvest10.app/images/home.png)
