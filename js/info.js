@@ -296,6 +296,9 @@ function drawChart(info) {
 }
 
 function findAddress(address) {
+	if(!address){
+		return null;
+	}
 	var addr = address.toLowerCase();
 	if (!window.investmentInfo) return null;
 
