@@ -1,0 +1,92 @@
+body {
+	background: #2c5a39;
+}
+
+.section {
+	padding: 0.5em 0em;
+}
+
+.yo-light {
+	color: white !important;
+	filter: drop-shadow(0 0 1px #2b002b) drop-shadow(0 0 2px #c0c)
+		drop-shadow(0 0 1px #f0f) !important;
+	-webkit-filter: drop-shadow(0 0 1px #2b002b) drop-shadow(0 0 2px #c0c)
+		drop-shadow(0 0 1px #f0f) !important;
+}
+
+.yo-light-title {
+	color: white !important;
+	font-size: 2.5em;
+	font-weight: 100 !important;
+	filter: drop-shadow(0 0 1px #2b002b) drop-shadow(0 0 2px #c0c)
+		drop-shadow(0 0 1px #f0f) !important;
+	-webkit-filter: drop-shadow(0 0 1px #2b002b) drop-shadow(0 0 2px #c0c)
+		drop-shadow(0 0 1px #f0f) !important;
+}
+
+.yo-icon {
+	color: #dc73ff;
+	font-size: 1.2em;
+}
+
+.yo-pink {
+	color: #dc73ff;
+}
+
+.yo-icon-large {
+	font-size: 2.5em;
+}
+
+@media (min-height: 320px) {
+	.ui.footer {
+		/* Increased specificity for SO snippet priority */
+		position: absolute;
+		bottom: 0;
+		width: 100%;
+	}
+}
+
+.ui.inverted.green.button,
+.ui.inverted.green.buttons .button {
+	color: #0ce3ac;
+	-webkit-box-shadow: 0 0 0 2px #0ce3ac inset !important;
+	box-shadow: 0 0 0 2px #0ce3ac inset !important;
+}
+
+.ui.inverted.green.button:hover {
+	color: #fff;
+	background-color: #0ce3ac;
+}
+
+.ui.green.button,
+.ui.green.buttons .button {
+	background-color: #0ce3ac;
+	color: #fff;
+	text-shadow: none;
+	background-image: none;
+}
+
+.yo-form {
+	padding: 1em;
+}
+
+/* .ui.large.inverted.pointing.menu {
+	background: #4a4a4a;
+} */
+
+.ui.menu {
+	border-radius: 0;
+}
+
+.title {
+	font-size: 2em;
+	padding: 0.5em 0 0 0.5em;
+}
+
+.ui.input input {
+	font: 400 14px;
+}
+/*hack css*/
+.ui.secondary.inverted.menu {
+	border-bottom: 2px solid #4a4a4a;
+}
