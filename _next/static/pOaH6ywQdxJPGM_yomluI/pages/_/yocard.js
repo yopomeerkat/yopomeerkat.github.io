@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[13],{1043:function(n,o,p){__NEXT_REGISTER_PAGE("/_/yocard",function(){return n.exports=p(27),{page:n.exports.default}})}},[[1043,1,0]]]);
